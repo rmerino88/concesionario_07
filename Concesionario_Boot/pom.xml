@@ -19,6 +19,7 @@
   	<module>CBootEntidades</module>
   	<module>CBootAplicacion</module>
   	<module>CBootPersistencia</module>
+  	<module>CBootControllers</module>
   </modules>
 
   <build>
